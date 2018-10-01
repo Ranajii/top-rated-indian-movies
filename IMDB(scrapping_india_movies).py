@@ -57,22 +57,3 @@ while a != 0:
     a = input("Enter 'done' to stop or press enter to continue: ")
     if a == 'done':
         break
-
-    
-
-
-
-
-
-
-
-
-    
-    
-
-
-
-
-
-
-
