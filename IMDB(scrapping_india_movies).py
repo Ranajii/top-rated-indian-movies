@@ -31,15 +31,9 @@ for k in ratings:
     q = k.text
     newratings.append(q)
 
-#we made two updated list , newtitles and newratings
-
-#updated = {}
-#for i in range(0,249):
-#    updated[newtitles[i]] = newratings[i]
-#    print(updated)
 
 '''we came to conclusion later that to access all films in rating wise
-it would be great if we stick with list as dictionaries are orderless '''    
+it would be great if we stick with list as dictionaries are inherently orderless '''    
 
 list1 = []
 for i in range(0,249):
